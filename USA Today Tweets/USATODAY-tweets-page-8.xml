@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Mon May 21 12:38:29 +0000 2012</created_at>
+    <id>204551739544829952</id>
+    <text>Did you watch the eclipse? Cynthia Baughman (@photobaugh) said she shot this image using a welder&#8217;s hood in  http://t.co/4o42bAma</text>
+    <source>&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;Instagram&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>35</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 12:05:05 +0000 2012</created_at>
+    <id>204543331735318528</id>
+    <text>From 'I Started a Joke' to 'Stayin' Alive,' check out these choice cuts spotlighting Robin Gibb's vocal gifts. http://t.co/srXQcLQm</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>6</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 11:45:08 +0000 2012</created_at>
+    <id>204538313636458496</id>
+    <text>Remembering Robin Gibb, the late singer of the Bee Gees, in photos http://t.co/xRpnqTMf</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>14</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 11:15:32 +0000 2012</created_at>
+    <id>204530862669316096</id>
+    <text>Our 10-song #summermusic playlist available now for free on iTunes http://t.co/t35GjQTp</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>19</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 10:01:34 +0000 2012</created_at>
+    <id>204512250390781952</id>
+    <text>5 groups, 5 views of what 'the economy' means in 2012 race http://t.co/TaanZEQj</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>14</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 10:01:34 +0000 2012</created_at>
+    <id>204512248281055232</id>
+    <text>Iraq buys U.S. drones to protect oil http://t.co/pYXf4Cp6</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>19</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 08:51:33 +0000 2012</created_at>
+    <id>204494629389869056</id>
+    <text>Suicide bomber kills scores in Yemen http://t.co/DiJNeROk</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>12</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 05:51:36 +0000 2012</created_at>
+    <id>204449341488889857</id>
+    <text>Finished: Spurs edge Clippers to finish sweep http://t.co/e9j0VOwX</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>7</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 04:15:08 +0000 2012</created_at>
+    <id>204425066212110336</id>
+    <text>Taking photos of celestial phenomena can be hard. Feel free to tweet @USATODAYTech images of sky or friends, family watching the #eclipse</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>8</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 04:05:04 +0000 2012</created_at>
+    <id>204422532122689536</id>
+    <text>Analysis: Ex-rivals'donors didn't flock to Romney in April http://t.co/hMpLYDXg</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>5</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 03:27:32 +0000 2012</created_at>
+    <id>204413087783206912</id>
+    <text>Donald Trump picks new 'Celebrity Apprentice' http://t.co/jHa4SusE</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>18</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 02:30:14 +0000 2012</created_at>
+    <id>204398668613287936</id>
+    <text>PHOTOS: 'Ring of fire' #eclipse crosses Asia: http://t.co/nHGJAZeG Don't forget to send @USATODAYTech your snapshots: http://t.co/e7lZyL3b</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>19</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 02:05:10 +0000 2012</created_at>
+    <id>204392358488449024</id>
+    <text>From 'I Started a Joke' to 'Stayin' Alive,' check out these choice cuts spotlighting Robin Gibb's vocal gifts. http://t.co/GcGGNrtM</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>31</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 01:35:05 +0000 2012</created_at>
+    <id>204384787924914177</id>
+    <text>Looking for some hot #summermusic? Have we got the right playlist for you! Get it FREE on iTunes: http://t.co/QJ6UG42p</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>8</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 01:14:15 +0000 2012</created_at>
+    <id>204379544117977088</id>
+    <text>View our timeline of the late Bee Gee singer Robin Gibb through the years http://t.co/beG5wt8E</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>33</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 01:09:16 +0000 2012</created_at>
+    <id>204378289496784898</id>
+    <text>In light of Robin Gibb's death, here is recommended listening from some of the Bee Gee singer's biggest hits http://t.co/G8mTWJsN</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>50</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 00:29:30 +0000 2012</created_at>
+    <id>204368282373984256</id>
+    <text>Bee Gee Robin Gibb may be remembered most for the 1977 soundtrack 'Saturday Night Fever': http://t.co/6Yc6LJX5 PHOTOS: http://t.co/PSpyqb2i</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>30</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 21 00:17:33 +0000 2012</created_at>
+    <id>204365274412093440</id>
+    <text>Senator asks Ohio EPA for answers on lead contamination http://t.co/MFbuAgmo</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>8</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 23:29:33 +0000 2012</created_at>
+    <id>204353196192309248</id>
+    <text>Robin Gibb of Bee Gees dies at 62 http://t.co/QHGxFr19</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>44</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 23:13:33 +0000 2012</created_at>
+    <id>204349171359158275</id>
+    <text>Belmont winners: I'll Have Another capable of Triple Crown http://t.co/yHmXjjlz</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>11</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 23:01:10 +0000 2012</created_at>
+    <id>204346053863014400</id>
+    <text>BREAKING: Robin Gibb dead at age 62 http://t.co/VX1vu47U</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY Breaking News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>94</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 22:39:32 +0000 2012</created_at>
+    <id>204340610868584449</id>
+    <text>Chen is safe in U.S., but China-based activists have it hard http://t.co/RlzT6ZDt</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>7</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 22:05:07 +0000 2012</created_at>
+    <id>204331948888440832</id>
+    <text>Plan on capturing the 'Ring of Fire' solar eclipse today? Tweet your photos to @USATODAYtech!</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>21</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 21:49:33 +0000 2012</created_at>
+    <id>204328029281992704</id>
+    <text>Many eligible borrowers passing up foreclosure reviews http://t.co/Z4fVaEPw</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>11</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 20:12:33 +0000 2012</created_at>
+    <id>204303621783945217</id>
+    <text>Top 10 under-loved cars, trucks that are deals http://t.co/nwsH1WMR</text>
+    <source>&lt;a href=&quot;http://dlvr.it&quot; rel=&quot;nofollow&quot;&gt;dlvr.it&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>13</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 20 20:10:22 +0000 2012</created_at>
+    <id>204303070123917312</id>
+    <text>By now you've heard some pretty terrible attempts by athletes trying to sing/rap. But these, my friends, are the worst: http://t.co/nhIBS3fi</text>
+    <source>&lt;a href=&quot;http://www.usatoday.com&quot; rel=&quot;nofollow&quot;&gt;USA TODAY News&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>15754281</id>
+      <name>USA TODAY</name>
+      <screen_name>USATODAY</screen_name>
+      <location>USA TODAY HQ, McLean, Va.</location>
+      <description>The latest news headlines and interesting stories from USATODAY.com's top news feed, plus tweets from our social media team.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/2164853228/500x500_fb_normal.gif</profile_image_url_https>
+      <url>http://www.usatoday.com</url>
+      <protected>false</protected>
+      <followers_count>316507</followers_count>
+      <profile_background_color>0092D0</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>FFFFFF</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>7DC3F0</profile_sidebar_border_color>
+      <friends_count>292</friends_count>
+      <created_at>Wed Aug 06 19:55:31 +0000 2008</created_at>
+      <favourites_count>97</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/214258138/17080_1920x1200_background.PNG</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>false</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>true</verified>
+      <statuses_count>35427</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>13327</listed_count>
+      <show_all_inline_media>false</show_all_inline_media>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>12</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+</statuses>

@@ -1,0 +1,3765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Wed Jun 06 00:43:39 +0000 2012</created_at>
+    <id>210170052283076608</id>
+    <text>@thestevenrich i dont what you said but if i can help...</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>210155311493955584</in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Jun 04 20:39:24 +0000 2012</created_at>
+    <id>209746194153484288</id>
+    <text>MR. HAMMOND, THE PHONES ARE WORKING #JurassicParkQuotesThatAreApplicableInTheWorkplace</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun Jun 03 17:41:12 +0000 2012</created_at>
+    <id>209338960491724801</id>
+    <text>Results of a Buck fishing weekend http://t.co/G9jGtPgC</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 21:33:21 +0000 2012</created_at>
+    <id>208310218663280640</id>
+    <text>@epltalk uhm, merica, fuck yeah?</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>208309146255228928</in_reply_to_status_id>
+    <in_reply_to_user_id>9499692</in_reply_to_user_id>
+    <in_reply_to_screen_name>epltalk</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 02:05:29 +0000 2012</created_at>
+    <id>208016316664262658</id>
+    <text>@thestevenrich Good analogy.  I mean, that was basically a pick 6 in futbol, yes?</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>208015959326339073</in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 02:03:08 +0000 2012</created_at>
+    <id>208015726198538241</id>
+    <text>@ClayTravisBGID If we play for guys up top every match, yes.  If we get BURNED SO HARD on the counter.... not so much.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>208015461550530560</in_reply_to_status_id>
+    <in_reply_to_user_id>50772918</in_reply_to_user_id>
+    <in_reply_to_screen_name>ClayTravisBGID</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 02:02:27 +0000 2012</created_at>
+    <id>208015554542444544</id>
+    <text>@thestevenrich He is the Sean Glennon of this team.  He just doesn't act like he's the man and yell at his girl in public.  So better really</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>208014629669048320</in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:57:50 +0000 2012</created_at>
+    <id>208014393684930562</id>
+    <text>Blah blah blah YOU'RE A FUCKING THIRD WORLD COUNTRY BRAZIL.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:55:26 +0000 2012</created_at>
+    <id>208013789856153600</id>
+    <text>@thestevenrich I take it back.  There is no god</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:53:49 +0000 2012</created_at>
+    <id>208013380672438272</id>
+    <text>@thestevenrich seven minutes.  Have faith - we've got another score in us.  and it will be GLORIOUS</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>208012383187251200</in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:47:53 +0000 2012</created_at>
+    <id>208011887789617153</id>
+    <text>@thestevenrich WE'RE PLAYING BRAZIL AND YOU'RE WORRIED ABOUT FAIRY TALES?!?!??!?!?!?</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>208011643580448768</in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:46:42 +0000 2012</created_at>
+    <id>208011590585430017</id>
+    <text>Q#$%@#$%!@$^&amp;amp;#$^&amp;amp;</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:41:44 +0000 2012</created_at>
+    <id>208010339642654720</id>
+    <text>....and.... Michael Bradley just ran the length of the field.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:36:30 +0000 2012</created_at>
+    <id>208009023084171266</id>
+    <text>HOWARD</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:33:49 +0000 2012</created_at>
+    <id>208008348254216192</id>
+    <text>Bollocks.  That might be as close as we get.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:30:40 +0000 2012</created_at>
+    <id>208007554155024386</id>
+    <text>Aaaaaand Marcello is a little bitch.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 31 01:29:13 +0000 2012</created_at>
+    <id>208007190810861570</id>
+    <text>The mullett must be be back in Brazil.  Or this Neymar fellow is a toolbag.  One or the other.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed May 30 02:07:31 +0000 2012</created_at>
+    <id>207654440432451585</id>
+    <text>@scottiTweets Its like having Wade at BOTH guard spots.  Or watching a futbol game</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>207650007518687234</in_reply_to_status_id>
+    <in_reply_to_user_id>37811678</in_reply_to_user_id>
+    <in_reply_to_screen_name>scottiTweets</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue May 29 23:40:56 +0000 2012</created_at>
+    <id>207617553663672321</id>
+    <text>The guy in the gray represents what Anna did to a Chipotle burrito moments ago.  #hungergames http://t.co/MOATUpEd</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon May 28 02:20:23 +0000 2012</created_at>
+    <id>206932902561333248</id>
+    <text>@darrenrovell virginia techs sousaphone section hasnt lost a hokie pokie in three decades</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>206931536237436929</in_reply_to_status_id>
+    <in_reply_to_user_id>24277551</in_reply_to_user_id>
+    <in_reply_to_screen_name>darrenrovell</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu May 24 21:01:54 +0000 2012</created_at>
+    <id>205765586523922432</id>
+    <text>LONG LIVE THE FIGHTERS!!! http://t.co/xEpNHK3v</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 22:23:14 +0000 2012</created_at>
+    <id>203974117983137792</id>
+    <text>#fuckingchelsea</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 21:27:00 +0000 2012</created_at>
+    <id>203959967160614912</id>
+    <text>God damn it</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 21:19:02 +0000 2012</created_at>
+    <id>203957961620594688</id>
+    <text>Fucking penalty kick</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 21:09:57 +0000 2012</created_at>
+    <id>203955675808808963</id>
+    <text>Destiny. Richmond. The Great. http://t.co/ge6JLFcO</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 20:38:58 +0000 2012</created_at>
+    <id>203947880485109760</id>
+    <text>THE DARK AVENGER, 30 more minutes?!?  #Chelsea #fuckyougermany</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 18:18:23 +0000 2012</created_at>
+    <id>203912495570751488</id>
+    <text>Norfolk.  You'd think it Austin. http://t.co/MZ6CV3rY</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 19 16:13:04 +0000 2012</created_at>
+    <id>203880963611176960</id>
+    <text>Fuuuuuuucccck http://t.co/sr0nkAii</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri May 18 15:54:35 +0000 2012</created_at>
+    <id>203513926460256256</id>
+    <text>This move helps the SEC a lot more as it shuts out the ACC who competes in several shared markets</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri May 18 15:49:35 +0000 2012</created_at>
+    <id>203512667737038848</id>
+    <text>The Big 12 is a farce.  Three million more year on a tv deal than the acc, and now this deal with the SEC, WHO JUST TOOK TWO OF YOUR SCHOOLS</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri May 18 12:40:15 +0000 2012</created_at>
+    <id>203465021559275520</id>
+    <text>@darrenrovell keep the faith dude!  Most of your followers do so because they dig what you feed us - don't let the haters get you down</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>203454164804706304</in_reply_to_status_id>
+    <in_reply_to_user_id>24277551</in_reply_to_user_id>
+    <in_reply_to_screen_name>darrenrovell</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 13 18:30:53 +0000 2012</created_at>
+    <id>201741320400805889</id>
+    <text>@DeuceMango who gives a fuck about qpr, didyou see the way city one that game?  Fucking danny coale like</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>201738268243533824</in_reply_to_status_id>
+    <in_reply_to_user_id>423250040</in_reply_to_user_id>
+    <in_reply_to_screen_name>DeuceMango</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun May 13 16:07:11 +0000 2012</created_at>
+    <id>201705155547234305</id>
+    <text>I don't even like #City, but that was amazing!</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 12 21:38:37 +0000 2012</created_at>
+    <id>201426176969932800</id>
+    <text>@slmandel They think unc and duke are getting the better of them on this one, and they want to join a league with texas?</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>201423379247542272</in_reply_to_status_id>
+    <in_reply_to_user_id>27934142</in_reply_to_user_id>
+    <in_reply_to_screen_name>slmandel</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 12 14:16:56 +0000 2012</created_at>
+    <id>201315024734658560</id>
+    <text>@DeuceMango If the Big 12/10/whatever expands, it will not affect any ACC members.  Period.  End of Story.  Strawberry....creamcheese...?</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>201181139031949312</in_reply_to_status_id>
+    <in_reply_to_user_id>423250040</in_reply_to_user_id>
+    <in_reply_to_screen_name>DeuceMango</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 12 14:16:00 +0000 2012</created_at>
+    <id>201314789308375041</id>
+    <text>@oSeabass I love that you used &quot;rage&quot; and harp&quot; in the same thought.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>201191041863385088</in_reply_to_status_id>
+    <in_reply_to_user_id>21595852</in_reply_to_user_id>
+    <in_reply_to_screen_name>oSeabass</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue May 08 16:44:18 +0000 2012</created_at>
+    <id>199902560042229760</id>
+    <text>@AndyMShack they're not doubling man, just letting rate cuts that were already set to expire, expire</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>160335677</in_reply_to_user_id>
+    <in_reply_to_screen_name>AndyMShack</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 05 01:17:38 +0000 2012</created_at>
+    <id>198582190408343553</id>
+    <text>ASSEMBLE</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat May 05 00:25:36 +0000 2012</created_at>
+    <id>198569094650396673</id>
+    <text>Never been in the bathrooms in Bonefish. Surprisingly nice. #iwouldgladlypoophere</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed May 02 16:26:59 +0000 2012</created_at>
+    <id>197723874870300673</id>
+    <text>Dear Washington Post.  Its called the 21st century, and its time to join it.  PEOPLE ACCESS YOUR SITE THROUGH MOBILE DEVICES #fixyourshit</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue May 01 18:54:01 +0000 2012</created_at>
+    <id>197398485375520770</id>
+    <text>Oh yeah, forgot about the whole wins and losses thing.  Its all about graduating kids.  Checks Seth's graduation numbers, throws computer.</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue May 01 18:52:59 +0000 2012</created_at>
+    <id>197398229069991936</id>
+    <text>Weavernomics - if you reduce your head coaches salary by 6.53 times, AND you raise ticket prices, your basketball program makes more money!</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 30 19:12:59 +0000 2012</created_at>
+    <id>197040871466737665</id>
+    <text>&quot;@ESPNAndyKatz: Wild timing. Binghamton fires Macon after 2-29 season http://t.co/TD1ET9mb&quot; a certain acc coach with NY ties is available...</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 30 16:10:10 +0000 2012</created_at>
+    <id>196994867082182656</id>
+    <text>So jjjjjim didn't like the culture of our program, so he hires Seths top asst., whose leaving started all this? #blameitontheparkinsons?</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Apr 27 18:15:55 +0000 2012</created_at>
+    <id>195939346019389442</id>
+    <text>No Shaka.  Every rational person knew it, but now its official.  Realistically I'd be happy with either Capel or Prohm</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>1</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Apr 27 18:13:45 +0000 2012</created_at>
+    <id>195938801917509632</id>
+    <text>If tech hires a retread hack like bobby lutz, who was fired at charlotte for NOT MAKING THE DANCE IN HIS LAST FIVE YEARS...</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Apr 27 03:47:15 +0000 2012</created_at>
+    <id>195720741688324097</id>
+    <text>David Wilson is also very likely the first person from Danville to ever go to NYC</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Apr 27 03:06:35 +0000 2012</created_at>
+    <id>195710505220976641</id>
+    <text>David Wilson!</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>1</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Apr 27 02:06:33 +0000 2012</created_at>
+    <id>195695397543489536</id>
+    <text>@Atlanta_Falcons jamal anderson</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>195694832646225920</in_reply_to_status_id>
+    <in_reply_to_user_id>16347506</in_reply_to_user_id>
+    <in_reply_to_screen_name>Atlanta_Falcons</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Apr 26 02:25:49 +0000 2012</created_at>
+    <id>195337861090902017</id>
+    <text>First NHL period I've watched in years.  Whoever this Canuck who is doing color commentary should have his tongue removed.  #LOLBOSTON</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Apr 26 01:20:46 +0000 2012</created_at>
+    <id>195321488155488257</id>
+    <text>You won't get fired for your &quot;faith&quot;, you'll get fired for being a state employee who takes their bigotry public.
+http://t.co/WZOWdSWv</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>2</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Apr 25 23:03:27 +0000 2012</created_at>
+    <id>195286930995417090</id>
+    <text>No Spanish teams in the CL final? Everyone wins! And how much did that Torres goal cost? Seeing how its his only score of note for Chelski</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Apr 25 01:28:30 +0000 2012</created_at>
+    <id>194961047445192705</id>
+    <text>@TimBrando because we agreed with you tim!  Seth was a class guy, who at very least deserved to be let go in a respectful, professional way</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>194951434364665856</in_reply_to_status_id>
+    <in_reply_to_user_id>59342982</in_reply_to_user_id>
+    <in_reply_to_screen_name>TimBrando</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 23 17:18:47 +0000 2012</created_at>
+    <id>194475419892846593</id>
+    <text>@VTuba nnnnnnnno.   I'm going to hell.</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>194474883357474816</in_reply_to_status_id>
+    <in_reply_to_user_id>22816767</in_reply_to_user_id>
+    <in_reply_to_screen_name>thestevenrich</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 23 17:11:08 +0000 2012</created_at>
+    <id>194473494338211841</id>
+    <text>&quot;@DavidTeelatDP: Jim Weaver's 4 p.m. presser at VT will be streamed live at http://t.co/oISFICGN&quot; THIS IS A BIG FUCKING DEAL - Joe Biden</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>1</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 23 17:10:17 +0000 2012</created_at>
+    <id>194473280936230913</id>
+    <text>@thekeyplay please!</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>194472878937350144</in_reply_to_status_id>
+    <in_reply_to_user_id>121947320</in_reply_to_user_id>
+    <in_reply_to_screen_name>thekeyplay</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 23 16:02:08 +0000 2012</created_at>
+    <id>194456130179710976</id>
+    <text>My money is on a WVU game. #furnitureonfire #hokies</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sat Apr 21 16:26:09 +0000 2012</created_at>
+    <id>193737398662856704</id>
+    <text>Oh herro bracksburg</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Apr 18 16:59:09 +0000 2012</created_at>
+    <id>192658538168991745</id>
+    <text>CJ Leslie returning to State is unfortunate.  For the rest of the ACC.  #IAMTHEWOLFPACKCLUB</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue Apr 17 22:35:17 +0000 2012</created_at>
+    <id>192380740858679296</id>
+    <text>Oh, you saw a shuttle on the back of a plane today?  But you're still stuck in traffic on the way home?  #lolnova</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 16 22:50:04 +0000 2012</created_at>
+    <id>192022075219771392</id>
+    <text>@thepriceisnate there is a distinct chance well still be out, holla when your done getting learned</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>192018229672157184</in_reply_to_status_id>
+    <in_reply_to_user_id>72152289</in_reply_to_user_id>
+    <in_reply_to_screen_name>thepriceisnate</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 16 22:25:18 +0000 2012</created_at>
+    <id>192015840751783936</id>
+    <text>@thepriceisnate kris titus is coming up after work, post seven thirty, that work for you? Who else is in town that is vt?</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>192015437217796096</in_reply_to_status_id>
+    <in_reply_to_user_id>72152289</in_reply_to_user_id>
+    <in_reply_to_screen_name>thepriceisnate</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 16 22:22:44 +0000 2012</created_at>
+    <id>192015193956564992</id>
+    <text>@thepriceisnate impromptu hokie supper?  three cornered hats?</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>72152289</in_reply_to_user_id>
+    <in_reply_to_screen_name>thepriceisnate</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Apr 05 23:44:28 +0000 2012</created_at>
+    <id>188049497161601024</id>
+    <text>@DeuceMango new year, same lineup.  Were gonna lose a lot of games by that run</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id>423250040</in_reply_to_user_id>
+    <in_reply_to_screen_name>DeuceMango</in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Tue Apr 03 03:41:48 +0000 2012</created_at>
+    <id>187022059673628672</id>
+    <text>Cheaters...do...prosper?  #Calipari</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Mon Apr 02 15:50:17 +0000 2012</created_at>
+    <id>186843000863862784</id>
+    <text>I guess bobby petrino is having a a case of the mondays.  #herepigsouis</text>
+    <source>&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry&#174;&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Sun Apr 01 12:52:54 +0000 2012</created_at>
+    <id>186435971540205568</id>
+    <text>Mansfield toilets are bigger pieces of shit than they are designed to &quot;accomodate&quot;#engineeringfail</text>
+    <source>web</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>123716680</id>
+      <name>Mike Buck</name>
+      <screen_name>BicBuck</screen_name>
+      <location>Carmen, San Diego</location>
+      <description>160 characters?  Psh.  Bald love.  I am the John Rocker of tuba.</description>
+      <profile_image_url>http://a0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1166208865/49545_6211487_5529260_q_normal.jpg</profile_image_url_https>
+      <url></url>
+      <protected>false</protected>
+      <followers_count>61</followers_count>
+      <profile_background_color>C0DEED</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+      <friends_count>208</friends_count>
+      <created_at>Wed Mar 17 01:02:26 +0000 2010</created_at>
+      <favourites_count>25</favourites_count>
+      <utc_offset>-18000</utc_offset>
+      <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>true</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>747</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <show_all_inline_media>true</show_all_inline_media>
+      <default_profile>true</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+</statuses>
